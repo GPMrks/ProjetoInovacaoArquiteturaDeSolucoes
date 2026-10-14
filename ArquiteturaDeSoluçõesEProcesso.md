@@ -1,5 +1,7 @@
 # Autor: Guilherme Marques
 
+### Repositório do Projeto: https://github.com/GPMrks/ProjetoInovacaoArquiteturaDeSolucoes
+
 ### Consulta dos enunciados em: https://aulas-marco.github.io/projeto-arquitetura-software/modulo-1-fundamentos/
 
 ## Exercício 1 — Arquitetura de soluções e arquitetura de software

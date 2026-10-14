@@ -58,7 +58,7 @@ Ao final da disciplina, o aluno deve ser capaz de:
 
 | Aula | Atividade | Situação |
 |---|---|---|
-| 01 | [Atividade Objetiva — Aula 01](Atividade_Objetiva_%20Aula_01.md) | Entregue |
+| 01 | [Atividade Objetiva — Aula 01](ArquiteturaDeSolu%C3%A7%C3%B5esEProcesso.md) | Entregue |
 | 02 | — | Pendente |
 | 03 | — | Pendente |
 | 04 | — | Pendente |
@@ -70,7 +70,7 @@ Ao final da disciplina, o aluno deve ser capaz de:
 ```text
 .
 ├── README.md
-├── Atividade_Objetiva_ Aula_01.md   # Exercícios da Aula 01
+├── ArquiteturaDeSoluçõesEProcesso.md   # Exercícios da Aula 01
 └── .gitignore                       # Ignora PDFs e documentos Word
 ```
 
