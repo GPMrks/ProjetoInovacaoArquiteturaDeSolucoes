@@ -1,6 +1,4 @@
-# Atividade Objetiva — Aula 01
-
-## Autor: Guilherme Marques
+# Autor: Guilherme Marques
 
 ### Consulta dos enunciados em: https://aulas-marco.github.io/projeto-arquitetura-software/modulo-1-fundamentos/
 
